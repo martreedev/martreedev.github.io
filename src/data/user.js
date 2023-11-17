@@ -40,12 +40,12 @@ const INFO = {
 		},
 
 		{
-			title: "Second project",
+			title: "Portfolio",
 			description:
-				"Description will go here",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"The source code for my personal portfolio on Github",
+			logo: "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/martreedev/martreedev.github.io/tree/main/src",
 		},
 	],
 };
