@@ -36,7 +36,7 @@ const INFO = {
 				"An online AI Powered Celebrity Voice Generator",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png",
 			linkText: "View Project",
-			link: "https://celeb-voice.com",
+			link: "https://www.upwork.com/freelancers/~01c73ef00c1cae95a2?p=1819972845200617472",
 		},
 
 		{
